@@ -16,10 +16,10 @@ Edit the value of the variable 'CHEAT_CODE_COMBINATION' to create a keyboard che
 
 The key values that can be used are:
 
-- 'LEFT': Left arrow keyboard key
-- 'RIGHT': Right arrow keyboard key
-- 'UP': Up arrow keyboard key
-- 'DOWN': Down arrow keyboard key
+- **LEFT**: Left arrow keyboard key
+- **RIGHT**: Right arrow keyboard key
+- **UP**: Up arrow keyboard key
+- **DOWN**: Down arrow keyboard key
 
 ## License
 
