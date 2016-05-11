@@ -12,7 +12,7 @@ Download the cheatCode.js file and add it into your project
 
 ## Usage
 
-Edit the value of the variable 'CHEAT_CODE_COMBINATION' to create a keyboard cheat code combination.
+Edit the value of the variable '**CHEAT_CODE_COMBINATION**' to create a keyboard cheat code combination.
 
 The key values that can be used are:
 
